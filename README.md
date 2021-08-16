@@ -1,1 +1,1 @@
-# CORD-19-Challenge-Clustering-Page-Rank-and-Spark-GraphFrames
+# CORD-19-Challenge-Clustering-GraphFrames
